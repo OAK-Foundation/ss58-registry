@@ -256,11 +256,11 @@
     {
       "prefix": 27,
       "network": "turing",
-      "displayName": "Turing",
+      "displayName": "Turing Network",
       "symbols": ["TUR"],
       "decimals": [10],
       "standardAccount": "*25519",
-      "website": "https://oak.tech"
+      "website": "https://oak.tech/turing"
     },
     {
       "prefix": 28,
